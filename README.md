@@ -84,7 +84,7 @@ python app/server.py
 ```
 Open your browser at **`http://localhost:8000`** to interact with the web app!
 
-![SolarCast web application](results/Web UI.png)
+![SolarCast web application](results/Web_UI.png)
 
 ---
 
